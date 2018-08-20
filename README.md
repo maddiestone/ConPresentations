@@ -2,6 +2,8 @@
 Miscellaneous slide desks from some of my conference presentations
 
 ## Conference Presentations
+* BlackHat USA 2018: ["Unpacking the Packed Unpacker: Reversing an Android Anti-Analysis Library"](https://www.blackhat.com/us-18/briefings/schedule/#unpacking-the-packed-unpacker-reverse-engineering-an-android-anti-analysis-native-library-10795)
+    + Slides: https://i.blackhat.com/us-18/Thu-August-9/us-18-Stone-Unpacking-The-Packed-Unpacker.pdf
 * OffensiveCon 2018: ["The Smarts Behind Hacking Dumb Devices"](https://www.offensivecon.org/speakers/2018/maddie-stone.html)
     + Slides: [OffensiveCon2018.SmartsBehindHackingDumbDevices.pdf](OffensiveCon2018.SmartsBehindHackingDumbDevices.pdf)
 * DerbyCon 2017: "IDAPython: The Wonder Woman of Embedded Device Reversing"
