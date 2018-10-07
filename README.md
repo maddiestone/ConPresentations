@@ -4,9 +4,9 @@ Micellaneous slide decks, resources, and recordings of some of my conference pre
 ## Conference Presentations
 * Virus Bulletin 2018: ["Unpacking the Packed Unpacker: Reversing an Android Anti-Analysis Library"](https://www.virusbulletin.com/conference/vb2018/abstracts/unpacking-packed-unpacker-reversing-android-anti-analysis-library)
     + [**Paper**](VB2018.UnpackingThePackedUnpacker.Paper.pdf)<br/>
-    Maddie Stone, "Unpacking the Packed Unpacker", Sept 2018, Virus Bulletin. Copyright is held by Virus Bulletin
+    *Maddie Stone, "Unpacking the Packed Unpacker", Sept 2018, Virus Bulletin. Copyright is held by Virus Bulletin
 Ltd, but is made available on this site for personal use free of charge by permission of Virus
-Bulletin. https://www.virusbulletin.com/
+Bulletin. https://www.virusbulletin.com/*
     + [Slides](VB2018.UnpackingThePackedUnpacker.Slides.pdf) 
     + Recording of Talk: *Coming Soon*
     + [IDAPython Script & Resources](https://github.com/maddiestone/IDAPythonEmbeddedToolkit/tree/master/Android)
