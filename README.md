@@ -2,6 +2,8 @@
 Micellaneous slide decks, resources, and recordings of some of my conference presentations.
 
 ## Conference Presentations
+* REcon Montreal 2019: ["The Path to the Payload: Android Edition"](https://cfp.recon.cx/reconmtl2019/talk/TMHQGV/)
+    + [Slides](REcon2019.PathToThePayload.pdf)<br/>
 * Virus Bulletin 2018: ["Unpacking the Packed Unpacker: Reversing an Android Anti-Analysis Library"](https://www.virusbulletin.com/conference/vb2018/abstracts/unpacking-packed-unpacker-reversing-android-anti-analysis-library)
     + [**Paper**](VB2018.UnpackingThePackedUnpacker.Paper.pdf)<br/>
     *Maddie Stone, "Unpacking the Packed Unpacker", Sept 2018, Virus Bulletin. Copyright is held by Virus Bulletin
