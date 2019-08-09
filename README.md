@@ -2,6 +2,8 @@
 Micellaneous slide decks, resources, and recordings of some of my conference presentations.
 
 ## Conference Presentations
+* Black Hat 2019: ["Securing the System: A Deep Dive into Reversing Android Pre-Installed Apps"](https://www.blackhat.com/us-19/briefings/schedule/index.html#securing-the-system-a-deep-dive-into-reversing-android-pre-installed-apps-16040)
+    + [Slides](Blackhat2019.SecuringTheSystem.pdf)
 * REcon Montreal 2019: ["The Path to the Payload: Android Edition"](https://cfp.recon.cx/reconmtl2019/talk/TMHQGV/)
     + [Slides](REcon2019.PathToThePayload.pdf)<br/>
 * Virus Bulletin 2018: ["Unpacking the Packed Unpacker: Reversing an Android Anti-Analysis Library"](https://www.virusbulletin.com/conference/vb2018/abstracts/unpacking-packed-unpacker-reversing-android-anti-analysis-library)
