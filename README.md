@@ -3,7 +3,7 @@ Micellaneous slide decks, resources, and recordings of some of my conference pre
 
 ## Conference Presentations
 * Jailbreak Security Summit 2019: ["What's Up with WhatsApp?: A Detailed Walk Through of Reverse Engineering CVE-2019-3568"](http://www.jailbreaksecuritysummit.com/)
-    +[Slides](Jailbreak.WhatsUpWithWhatsApp.pdf)
+    + [Slides](Jailbreak2019.WhatsUpWithWhatsApp.pdf)
 * Black Hat 2019: ["Securing the System: A Deep Dive into Reversing Android Pre-Installed Apps"](https://www.blackhat.com/us-19/briefings/schedule/index.html#securing-the-system-a-deep-dive-into-reversing-android-pre-installed-apps-16040)
     + [Slides](Blackhat2019.SecuringTheSystem.pdf)
 * REcon Montreal 2019: ["The Path to the Payload: Android Edition"](https://cfp.recon.cx/reconmtl2019/talk/TMHQGV/)
