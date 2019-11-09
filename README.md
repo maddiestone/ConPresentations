@@ -2,6 +2,8 @@
 Micellaneous slide decks, resources, and recordings of some of my conference presentations.
 
 ## Conference Presentations
+* BSides Charlestone 2019 KEYNOTE: "Switching Sides: The Practical Benefits from Switching from Red to Blue to Purple" 
+    + [Slides](BSidesCharleston.SwitchingSides.pdf)
 * Jailbreak Security Summit 2019: ["What's Up with WhatsApp?: A Detailed Walk Through of Reverse Engineering CVE-2019-3568"](http://www.jailbreaksecuritysummit.com/)
     + [Slides](Jailbreak2019.WhatsUpWithWhatsApp.pdf)
 * Black Hat 2019: ["Securing the System: A Deep Dive into Reversing Android Pre-Installed Apps"](https://www.blackhat.com/us-19/briefings/schedule/index.html#securing-the-system-a-deep-dive-into-reversing-android-pre-installed-apps-16040)
