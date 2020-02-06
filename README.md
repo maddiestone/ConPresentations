@@ -2,14 +2,21 @@
 Micellaneous slide decks, resources, and recordings of some of my conference presentations.
 
 ## Conference Presentations
+* Bluehat IL 2020: ["Where's Waldo...'s Brothers & Sisters: Variant Analysis on Recent 0-days"](https://www.bluehatil.com/abstracts#collapse-Waldo)
+    + [Slides](BluehatIL2020.VariantAnalyis.pdf)
+    + Video coming soon!
 * BSides Charlestone 2019 KEYNOTE: "Switching Sides: The Practical Benefits from Switching from Red to Blue to Purple" 
     + [Slides](BSidesCharleston.SwitchingSides.pdf)
+    + [Video](https://www.youtube.com/watch?v=0kJsVKFSrHo)
 * Jailbreak Security Summit 2019: ["What's Up with WhatsApp?: A Detailed Walk Through of Reverse Engineering CVE-2019-3568"](http://www.jailbreaksecuritysummit.com/)
     + [Slides](Jailbreak2019.WhatsUpWithWhatsApp.pdf)
+    + [Video](https://vimeo.com/377181218)
 * Black Hat 2019: ["Securing the System: A Deep Dive into Reversing Android Pre-Installed Apps"](https://www.blackhat.com/us-19/briefings/schedule/index.html#securing-the-system-a-deep-dive-into-reversing-android-pre-installed-apps-16040)
     + [Slides](Blackhat2019.SecuringTheSystem.pdf)
+    + [Video](https://www.youtube.com/watch?v=U6qTcpCfuFc&list=PLH15HpR5qRsWrfkjwFSI256x1u2Zy49VI)
 * REcon Montreal 2019: ["The Path to the Payload: Android Edition"](https://cfp.recon.cx/reconmtl2019/talk/TMHQGV/)
-    + [Slides](REcon2019.PathToThePayload.pdf)<br/>
+    + [Slides](REcon2019.PathToThePayload.pdf)
+    + [Video](https://recon.cx/media-archive/2019/Session.005.Maddie_Stone.The_path_to_the_payload_Android_Edition-J3ZnNl2GYjEfa.mp4)
 * Kaspersky SAS 2019: "Chamois: Android's Most Impactful Botnet of 2018"
     + [Video](https://www.youtube.com/watch?v=J2QBvetsdWc)
     + [Slides](KasperskySAS2019.Chamois.pdf)
