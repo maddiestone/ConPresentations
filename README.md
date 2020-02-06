@@ -6,6 +6,7 @@ Micellaneous slide decks, resources, and recordings of some of my conference pre
     + [Slides](BluehatIL2020.VariantAnalyis.pdf)
     + Video coming soon!
 * BSides Charlestone 2019 KEYNOTE: "Switching Sides: The Practical Benefits from Switching from Red to Blue to Purple" 
+    + [Video](https://www.youtube.com/watch?v=0kJsVKFSrHo)
     + [Slides](BSidesCharleston.SwitchingSides.pdf)
     + [Video](https://www.youtube.com/watch?v=0kJsVKFSrHo)
 * Jailbreak Security Summit 2019: ["What's Up with WhatsApp?: A Detailed Walk Through of Reverse Engineering CVE-2019-3568"](http://www.jailbreaksecuritysummit.com/)
@@ -20,6 +21,8 @@ Micellaneous slide decks, resources, and recordings of some of my conference pre
 * Kaspersky SAS 2019: "Chamois: Android's Most Impactful Botnet of 2018"
     + [Video](https://www.youtube.com/watch?v=J2QBvetsdWc)
     + [Slides](KasperskySAS2019.Chamois.pdf)
+* Hackers2Hackers Conference 2018: "Getting Malicious in 2018: A Deep Dive into 2018s Most Impactful Malware in the Android Ecosystem" presented with Kylie McRoberts
+    + [Video](https://www.youtube.com/watch?v=DE6iKHtyc-M&list=PL7uEW5r1x-PL_JPNHGUFKXmew3hVDP6jS&index=23)
 * Virus Bulletin 2018: ["Unpacking the Packed Unpacker: Reversing an Android Anti-Analysis Library"](https://www.virusbulletin.com/conference/vb2018/abstracts/unpacking-packed-unpacker-reversing-android-anti-analysis-library)
     + [**Paper**](VB2018.UnpackingThePackedUnpacker.Paper.pdf)<br/>
     *Maddie Stone, "Unpacking the Packed Unpacker", Sept 2018, Virus Bulletin. Copyright is held by Virus Bulletin
