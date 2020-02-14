@@ -2,9 +2,12 @@
 Micellaneous slide decks, resources, and recordings of some of my conference presentations.
 
 ## Conference Presentations
+* OffensiveCon 2020:["Bad Binder: Finding an Android In The Wild 0day"](https://www.offensivecon.org/speakers/2020/maddie-stone.html)
+    + [Slides](OffensiveCon2020.BadBinder.pdf)
+    + Video coming soon!
 * Bluehat IL 2020: ["Where's Waldo...'s Brothers & Sisters: Variant Analysis on Recent 0-days"](https://www.bluehatil.com/abstracts#collapse-Waldo)
     + [Slides](BluehatIL2020.VariantAnalyis.pdf)
-    + Video coming soon!
+    + [Video](https://www.youtube.com/watch?v=mC1Pwsdy814)
 * BSides Charlestone 2019 KEYNOTE: "Switching Sides: The Practical Benefits from Switching from Red to Blue to Purple" 
     + [Video](https://www.youtube.com/watch?v=0kJsVKFSrHo)
     + [Slides](BSidesCharleston.SwitchingSides.pdf)
