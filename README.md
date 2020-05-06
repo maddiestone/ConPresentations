@@ -2,9 +2,14 @@
 Micellaneous slide decks, resources, and recordings of some of my conference presentations.
 
 ## Conference Presentations
+* vOPCDE #4 2020:["TFW you-get-really-excited-you-patch-diffed-a-0day-used-in-the-wild-but-then-find-out-it-is-the-wrong-vuln"](https://www.opcde.com/speakers/speakers-20200506/)
+    + [Slides](vOPCDE4.tfw.pdf)
+    + [Blog](https://googleprojectzero.blogspot.com/2020/04/tfw-you-get-really-excited-you-patch.html)
+    + [Video](https://www.youtube.com/watch?v=8_i4X9MMjbE)
 * OffensiveCon 2020:["Bad Binder: Finding an Android In The Wild 0day"](https://www.offensivecon.org/speakers/2020/maddie-stone.html)
     + [Slides](OffensiveCon2020.BadBinder.pdf)
-    + Video coming soon!
+    + [Blog](https://googleprojectzero.blogspot.com/2019/11/bad-binder-android-in-wild-exploit.html)
+    + [Video](https://www.youtube.com/watch?v=TAwQ4ezgEIo)
 * Bluehat IL 2020: ["Where's Waldo...'s Brothers & Sisters: Variant Analysis on Recent 0-days"](https://www.bluehatil.com/abstracts#collapse-Waldo)
     + [Slides](BluehatIL2020.VariantAnalyis.pdf)
     + [Video](https://www.youtube.com/watch?v=mC1Pwsdy814)
