@@ -2,6 +2,8 @@
 Micellaneous slide decks, resources, and recordings of some of my conference presentations.
 
 ## Conference Presentations
+* Black Hat USA 2020: ["Reversing the Root: Identifying the Exploited Vulnerability in 0-days Used In-The-Wild](https://www.blackhat.com/us-20/briefings/schedule/#reversing-the-root-identifying-the-exploited-vulnerability-in--days-used-in-the-wild-20308)
+    + [Slides](BH2020.ReversingTheRoot.pdf)
 * vOPCDE #4 2020:["TFW you-get-really-excited-you-patch-diffed-a-0day-used-in-the-wild-but-then-find-out-it-is-the-wrong-vuln"](https://www.opcde.com/speakers/speakers-20200506/)
     + [Slides](vOPCDE4.tfw.pdf)
     + [Blog](https://googleprojectzero.blogspot.com/2020/04/tfw-you-get-really-excited-you-patch.html)
