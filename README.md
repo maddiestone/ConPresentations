@@ -2,6 +2,9 @@
 Micellaneous slide decks, resources, and recordings of some of my conference presentations.
 
 ## Conference Presentations
+* Appsec Village at Defcon 2020 Keynote: "Who's secure, who's not, and who makes that choice"
+    + [Slides](AppsecVillage2020.Keynote.pdf)
+    + [Video](https://www.youtube.com/watch?v=t5-Jk7Lg6Pw)
 * Black Hat USA 2020: ["Reversing the Root: Identifying the Exploited Vulnerability in 0-days Used In-The-Wild](https://www.blackhat.com/us-20/briefings/schedule/#reversing-the-root-identifying-the-exploited-vulnerability-in--days-used-in-the-wild-20308)
     + [Slides](BH2020.ReversingTheRoot.pdf)
 * vOPCDE #4 2020:["TFW you-get-really-excited-you-patch-diffed-a-0day-used-in-the-wild-but-then-find-out-it-is-the-wrong-vuln"](https://www.opcde.com/speakers/speakers-20200506/)
