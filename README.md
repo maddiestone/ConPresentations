@@ -2,6 +2,9 @@
 Micellaneous slide decks, resources, and recordings of some of my conference presentations.
 
 ## Conference Presentations
+* BSidesPDX 2020 Keynote: "10 Life Lessons I Learned from Hacking"
+    + [Slides](BSidesPDX2020.Keynote.pdf)
+    + Video coming soon!
 * Appsec Village at Defcon 2020 Keynote: "Who's secure, who's not, and who makes that choice"
     + [Slides](AppsecVillage2020.Keynote.pdf)
     + [Video](https://www.youtube.com/watch?v=t5-Jk7Lg6Pw)
