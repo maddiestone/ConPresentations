@@ -2,9 +2,15 @@
 Micellaneous slide decks, resources, and recordings of some of my conference presentations.
 
 ## Conference Presentations
+* AusCERT Keynote 2021: "A World Where 0-day is Hard"
+    + [Slides](AusCert2021.Keynote.pdf)
+    + [Video](https://www.youtube.com/watch?v=JImRRS4JJd8)
+* Enigma 2021: ["The State of 0-day In-the-Wild Exploitation: A Year in Review of 0-days Used In-The-Wild in 2020"](https://www.usenix.org/conference/enigma2021/presentation/stone)
+    + [Slides](Enigma2021.StateOf0day.pdf)
+    + [Video](https://www.youtube.com/watch?v=kwh6vjIyWe8)
 * BSidesPDX 2020 Keynote: "10 Life Lessons I Learned from Hacking"
     + [Slides](BSidesPDX2020.Keynote.pdf)
-    + Video coming soon!
+    + [Video](https://www.youtube.com/watch?v=IQ00wfr_xG4&t=1630s)
 * Appsec Village at Defcon 2020 Keynote: "Who's secure, who's not, and who makes that choice"
     + [Slides](AppsecVillage2020.Keynote.pdf)
     + [Video](https://www.youtube.com/watch?v=t5-Jk7Lg6Pw)
