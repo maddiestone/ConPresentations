@@ -2,6 +2,8 @@
 Micellaneous slide decks, resources, and recordings of some of my conference presentations.
 
 ## Conference Presentations
+* FIRST 2022: "0-day In-the-Wild Exploitation in 2022...so far"
+    + [Slides](FIRST2022.2022_0days_so_far.pdf)
 * OffensiveCon 2022: "Real World 0-days: 0-days Detected In-the-Wild in 2021"
     + [Slides](OffensiveCon2022.RealWorld0days.pdf)
 * AusCERT Keynote 2021: "A World Where 0-day is Hard"
