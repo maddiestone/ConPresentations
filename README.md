@@ -2,16 +2,24 @@
 Micellaneous slide decks, resources, and recordings of some of my conference presentations.
 
 ## Conference Presentations
+* EKOPARTY 2022: "A Very Powerful Clipboard: Analysis of a Samsung in-the-wild exploit chain"
+    + [Slides](EKOPARTY2022.AVeryPowerfulClipboard.pdf)
+    + [Blog](https://googleprojectzero.blogspot.com/2022/11/a-very-powerful-clipboard-samsung-in-the-wild-exploit-chain.html)
 * FIRST 2022: "0-day In-the-Wild Exploitation in 2022...so far"
     + [Slides](FIRST2022.2022_0days_so_far.pdf)
+    + [Blog](https://googleprojectzero.blogspot.com/2022/06/2022-0-day-in-wild-exploitationso-far.html)
+    + [Video](https://www.youtube.com/watch?v=ueLuIKjRTnY)
 * OffensiveCon 2022: "Real World 0-days: 0-days Detected In-the-Wild in 2021"
     + [Slides](OffensiveCon2022.RealWorld0days.pdf)
+    + [Blog](https://googleprojectzero.blogspot.com/2022/04/the-more-you-know-more-you-know-you.html)
+    + [Video](https://www.youtube.com/watch?v=8SV5l-Bxj_U)
 * AusCERT Keynote 2021: "A World Where 0-day is Hard"
     + [Slides](AusCert2021.Keynote.pdf)
     + [Video](https://www.youtube.com/watch?v=JImRRS4JJd8)
 * Enigma 2021: ["The State of 0-day In-the-Wild Exploitation: A Year in Review of 0-days Used In-The-Wild in 2020"](https://www.usenix.org/conference/enigma2021/presentation/stone)
     + [Slides](Enigma2021.StateOf0day.pdf)
     + [Video](https://www.youtube.com/watch?v=kwh6vjIyWe8)
+    + [Blog](https://googleprojectzero.blogspot.com/2021/02/deja-vu-lnerability.html)
 * BSidesPDX 2020 Keynote: "10 Life Lessons I Learned from Hacking"
     + [Slides](BSidesPDX2020.Keynote.pdf)
     + [Video](https://www.youtube.com/watch?v=IQ00wfr_xG4&t=1630s)
