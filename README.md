@@ -2,6 +2,8 @@
 Micellaneous slide decks, resources, and recordings of some of my conference presentations.
 
 ## Conference Presentations
+* Zer0Con 2023: "A Year in Review of 0-days Exploited In-the-Wild in 2022"
+    + [Slides](Zer0Con2023.YearInReview.pdf)
 * EKOPARTY 2022: "A Very Powerful Clipboard: Analysis of a Samsung in-the-wild exploit chain"
     + [Slides](EKOPARTY2022.AVeryPowerfulClipboard.pdf)
     + [Blog](https://googleprojectzero.blogspot.com/2022/11/a-very-powerful-clipboard-samsung-in-the-wild-exploit-chain.html)
