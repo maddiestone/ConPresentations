@@ -2,8 +2,14 @@
 Micellaneous slide decks, resources, and recordings of some of my conference presentations.
 
 ## Conference Presentations
+* BSidesCanberra 2023 Keynote: "When Exploits Aren't Binary"
+    + [Slides](BSidesCanberra2023.WhenExploitsArentBinary.pdf)
+* OffensiveCon 2023: "The Print Spooler Bug That Wasn't" with James Forshaw
+    + [Slides](OffensiveCon2023.PrintSpooler.pdf)
+    + [Video](https://www.youtube.com/watch?v=H03b0UaogVs)
 * Zer0Con 2023: "A Year in Review of 0-days Exploited In-the-Wild in 2022"
     + [Slides](Zer0Con2023.YearInReview.pdf)
+    + [Blog](https://security.googleblog.com/2023/07/the-ups-and-downs-of-0-days-year-in.html)
 * EKOPARTY 2022: "A Very Powerful Clipboard: Analysis of a Samsung in-the-wild exploit chain"
     + [Slides](EKOPARTY2022.AVeryPowerfulClipboard.pdf)
     + [Blog](https://googleprojectzero.blogspot.com/2022/11/a-very-powerful-clipboard-samsung-in-the-wild-exploit-chain.html)
